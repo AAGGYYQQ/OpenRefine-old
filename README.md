@@ -58,5 +58,6 @@ This is the full list of contributors (in chronological order):
  - Gabriel Sjoberg <GabrielSjoberg@gmail.com>
  - Rod Salazar <rodrod.salazar@gmail.com>
  - pxb <pxb1988@gmail.com>
+ - Jacky <jackyq2015@gmail.com>
 
 
